@@ -18,11 +18,9 @@ void OnDllAttach(PVOID hModule)
 	SetConsoleTitleA(" OverflowR6");
 	Utils::Log("Console Allocated!");
 
-	//g_Settings::hModule = hModule;
-
-	//// Inatilizae 
+	// Inatilizae 
 	Globals::HackInit();
-	//Hooks::HookInit();
+	Hooks::HookInit();
 
 	return;
 }

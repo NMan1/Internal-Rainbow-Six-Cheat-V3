@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.29411.138
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OverflowKernelInjector", "OverflowKernelInjector.vcxproj", "{6C939DEC-021E-4A21-8EF2-E30359E637DA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OverflowLoader", "C:\Users\nickm\source\repos\OverflowInternalR6\OverflowLoader\OverflowLoader.vcxproj", "{08087515-6A07-46F0-9282-8405E5467D28}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OverflowDLL", "C:\Users\nickm\source\repos\OverflowInternalR6\OverflowDLL\OverflowDLL.vcxproj", "{F45CEF2A-97A0-4E5A-B857-E62A13AACB20}"
 EndProject
 Global
@@ -45,18 +43,6 @@ Global
 		{6C939DEC-021E-4A21-8EF2-E30359E637DA}.Release|x86.ActiveCfg = Release|Win32
 		{6C939DEC-021E-4A21-8EF2-E30359E637DA}.Release|x86.Build.0 = Release|Win32
 		{6C939DEC-021E-4A21-8EF2-E30359E637DA}.Release|x86.Deploy.0 = Release|Win32
-		{08087515-6A07-46F0-9282-8405E5467D28}.Debug|ARM.ActiveCfg = Debug|Win32
-		{08087515-6A07-46F0-9282-8405E5467D28}.Debug|ARM64.ActiveCfg = Debug|Win32
-		{08087515-6A07-46F0-9282-8405E5467D28}.Debug|x64.ActiveCfg = Debug|x64
-		{08087515-6A07-46F0-9282-8405E5467D28}.Debug|x64.Build.0 = Debug|x64
-		{08087515-6A07-46F0-9282-8405E5467D28}.Debug|x86.ActiveCfg = Debug|Win32
-		{08087515-6A07-46F0-9282-8405E5467D28}.Debug|x86.Build.0 = Debug|Win32
-		{08087515-6A07-46F0-9282-8405E5467D28}.Release|ARM.ActiveCfg = Release|Win32
-		{08087515-6A07-46F0-9282-8405E5467D28}.Release|ARM64.ActiveCfg = Release|Win32
-		{08087515-6A07-46F0-9282-8405E5467D28}.Release|x64.ActiveCfg = Release|x64
-		{08087515-6A07-46F0-9282-8405E5467D28}.Release|x64.Build.0 = Release|x64
-		{08087515-6A07-46F0-9282-8405E5467D28}.Release|x86.ActiveCfg = Release|Win32
-		{08087515-6A07-46F0-9282-8405E5467D28}.Release|x86.Build.0 = Release|Win32
 		{F45CEF2A-97A0-4E5A-B857-E62A13AACB20}.Debug|ARM.ActiveCfg = Debug|Win32
 		{F45CEF2A-97A0-4E5A-B857-E62A13AACB20}.Debug|ARM64.ActiveCfg = Debug|Win32
 		{F45CEF2A-97A0-4E5A-B857-E62A13AACB20}.Debug|x64.ActiveCfg = Release|x64
